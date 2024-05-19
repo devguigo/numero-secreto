@@ -11,5 +11,5 @@
 </div>
 
 # Time
-
-| [<img loading="lazy" src=https://avatars.githubusercontent.com/u/170111700?v=4" width=115><br><sub>Guilherme Goulart</sub>](https://github.com/devguigo) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170111700?v=4" width=115><br><sub>Guilherme Goulart</sub>](https://github.com/devguigo) |
+| :---: |
